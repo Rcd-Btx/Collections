@@ -2,4 +2,3 @@
 
 2> Other dependencies libs from Microsoft: System.Threading.Channels.dll, System.Threading.Tasks.Extensions.dll
 
-3> Add Simple Client Wrapper using json config file
